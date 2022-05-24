@@ -5631,7 +5631,7 @@ html {
     line-height: 1;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -9303,8 +9303,8 @@ a.ba-tile:not(.ba-layoutless):hover h2 {
         text-decoration: none;
         text-rendering: auto;
         text-transform: none;
-        speak: none;
-        vertical-align: middle;
+        
+        /* vertical-align: middle; */
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
         content: "\f119";
@@ -10133,8 +10133,8 @@ a.ba-tile:not(.ba-layoutless):hover h2 {
     line-height: 1;
     text-decoration: none;
     text-rendering: auto;
-    speak: none;
-    vertical-align: middle;
+   
+    /* vertical-align: middle; */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     content: "\f114";
@@ -12268,7 +12268,7 @@ body.insite .ba-topservices .ba-content-row {
     text-decoration: none;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -12829,7 +12829,7 @@ body.insite .ba-topservices .ba-content-row {
         text-decoration: none;
         text-rendering: auto;
         text-transform: none;
-        speak: none;
+        
         vertical-align: middle;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale
@@ -13075,7 +13075,7 @@ body.insite .ba-topservices .ba-content-row {
         text-decoration: none;
         text-rendering: auto;
         text-transform: none;
-        speak: none;
+        
         vertical-align: middle;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -13102,7 +13102,7 @@ body.insite .ba-topservices .ba-content-row {
         text-decoration: none;
         text-rendering: auto;
         text-transform: none;
-        speak: none;
+        
         vertical-align: middle;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -13132,7 +13132,7 @@ body.insite .ba-topservices .ba-content-row {
         text-decoration: none;
         text-rendering: auto;
         text-transform: none;
-        speak: none;
+        
         vertical-align: middle;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -13377,7 +13377,7 @@ body.insite .ba-topservices .ba-content-row {
     max-width: 100%;
     margin-right: 20px;
     padding: 6px;
-    float: left;
+    /* float: left; */
     border: 1px solid #595959;
     border-radius: 4px;
     background-color: #fff;
@@ -14204,7 +14204,7 @@ a.ba-link-tel:before {
     line-height: 1;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -14505,7 +14505,7 @@ input[type=text]::placeholder {
     text-decoration: none;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -15290,7 +15290,7 @@ body.insite .ba-first-aid.ba-content-row .ba-image-wall:before {
     text-decoration: none;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -15583,7 +15583,7 @@ body.insite .ba-first-aid.ba-content-row .ba-textbox h2 {
         text-decoration: none;
         text-rendering: auto;
         text-transform: none;
-        speak: none;
+        
         vertical-align: middle;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -18824,7 +18824,7 @@ a.ba-card.ba-with-image:hover:after {
     text-decoration: none;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -18852,7 +18852,7 @@ a.ba-card.ba-with-image:hover:after {
         text-decoration: none;
         text-rendering: auto;
         text-transform: none;
-        speak: none;
+        
         vertical-align: middle;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
@@ -18945,7 +18945,7 @@ a.ba-card.ba-with-image:hover:after {
     text-decoration: none;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -18971,7 +18971,7 @@ a.ba-card.ba-with-image:hover:after {
     text-decoration: none;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -18997,7 +18997,7 @@ a.ba-card.ba-with-image:hover:after {
     text-decoration: none;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -19023,7 +19023,7 @@ a.ba-card.ba-with-image:hover:after {
     text-decoration: none;
     text-rendering: auto;
     text-transform: none;
-    speak: none;
+    
     vertical-align: middle;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
